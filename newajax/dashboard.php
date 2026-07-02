@@ -31,7 +31,7 @@
 <div class="w3-top">
   <div class="w3-bar w3-custom-blue w3-wide w3-padding w3-card">
     <a href="dashboard.php" class="w3-bar-item w3-button">Buku Tamu</a>
-    <a href="keluar.php" class="w3-bar-item w3-button w3-red w3-right">LogOut</a>    
+    <a href="logout.php" class="w3-bar-item w3-button w3-red w3-right">LogOut</a>    
   </div>
 </div>
 
